@@ -35,7 +35,7 @@ If a fire is detected, an alert is issued for response action
 - React Native Expo,
 - Nyckel (IR)
 - HTML/JS/CSS
-- 00webhost
+- 000webhost
 - SolidWorks
 - UltiMaker Cura
 
