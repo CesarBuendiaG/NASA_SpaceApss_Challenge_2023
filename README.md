@@ -1,7 +1,9 @@
 # NASA SpaceApss Challenge 2023 🚀
 
 **Challenge:** Managing Fire: Increasing Community-based Fire Management Opportunities
-[**Link**](https://www.spaceappschallenge.org/2023/challenges/managing-fire-increasing-community-based-fire-management-opportunities/) 
+[**Link**](https://www.spaceappschallenge.org/2023/challenges/managing-fire-increasing-community-based-fire-management-opportunities/)  
+
+[PDF of our trip](FireWatchCommunity.pdf)
 
 # Project Proposal: FireWatch Community
 ![Team](Team.jpeg)  
