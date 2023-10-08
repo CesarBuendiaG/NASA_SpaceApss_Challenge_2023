@@ -57,9 +57,6 @@ Vulcano is a drone designed for rapid fire assessment and monitoring. Thanks to 
 
 ## NASA resources📋
 - Map Data: [Link](https://firms.modaps.eosdis.nasa.gov/space-apps-2023)  
-- Design
-- Science
-- Healt
 
 ## Team
 - Domínguez Chimal Oswaldo Raúl
