@@ -8,7 +8,7 @@
 **[Presentation](https://www.canva.com/design/DAFwsi_vuP8/rzOza61muPKYi0ioSyUqtw/edit?utm_content=DAFwsi_vuP8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
 ## Our Work
 ### App Prototipe
-*Enruteo a GIF*
+![App](gif_app.gif)
 
 Our app uses an interactive map for real-time fire alerts. If you see a fire, take a photo, which our image recognition algorithm will analyze to avoid false alarms, effectively identifying and monitoring fires.
 
