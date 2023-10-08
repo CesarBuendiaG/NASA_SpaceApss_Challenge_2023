@@ -15,9 +15,9 @@ Our app uses an interactive map for real-time fire alerts. If you see a fire, ta
 It also offers an emergency button and an awareness tab with infographics about forest fires.
 
 ### Web Prototipe
-![web1](Web1.jpeg)
-![web2](Web2.jpeg))
-![web3](Web3.jpeg))
+![web1](Web1.jpeg)  
+![web2](Web2.jpeg)  
+![web3](Web3.jpeg)  
 **[Website](https://firewatchcommunity.000webhostapp.com/)**
 Where you will find a historical map of forest fires and valuable information on how to act in the event of one.
 
