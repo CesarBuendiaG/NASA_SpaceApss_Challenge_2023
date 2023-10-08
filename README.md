@@ -30,7 +30,9 @@ An image recognition algorithm that processes user captures through the mobile a
 If a fire is detected, an alert is issued for response action
 
 ### Drone monitoring Prototipe
-![Dron](Dron1.png)
+![Dron](Dron1.png)  
+Ignis is a drone specialized in fire monitoring. Equipped with high-resolution cameras, this drone is capable of detecting heat sources in large areas, offering real-time data on the evolution and direction of the fire.
+Vulcano is a drone designed for rapid fire assessment and monitoring. Thanks to its advanced imaging technology, it can penetrate dense columns of smoke, offering clear images of the affected terrain.
 
 **Check out our [presentation](https://www.canva.com/design/DAFwsi_vuP8/rzOza61muPKYi0ioSyUqtw/edit?utm_content=DAFwsi_vuP8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!** 
 
