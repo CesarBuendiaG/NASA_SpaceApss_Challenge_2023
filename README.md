@@ -18,9 +18,9 @@ It also offers an emergency button and an awareness tab with infographics about 
 ![web1](Web1.jpeg)  
 ![web2](Web2.jpeg)  
 ![web3](Web3.jpeg)  
-**[Website](https://firewatchcommunity.000webhostapp.com/)**
-Where you will find a historical map of forest fires and valuable information on how to act in the event of one.
+**[Website](https://firewatchcommunity.000webhostapp.com/)**  
 
+Where you will find a historical map of forest fires and valuable information on how to act in the event of one.  
 In addition, having drone prototyping and image recognition for effective identification and monitoring of forest fires.
 
 ### IR Prototipe
