@@ -15,14 +15,16 @@ Our app uses an interactive map for real-time fire alerts. If you see a fire, ta
 It also offers an emergency button and an awareness tab with infographics about forest fires.
 
 ### Web Prototipe
-*Enruteo a GIF*
+![web1](Web1.jpeg)
+![web2](Web2.jpeg))
+![web3](Web3.jpeg))
 **[Website](https://firewatchcommunity.000webhostapp.com/)**
 Where you will find a historical map of forest fires and valuable information on how to act in the event of one.
 
 In addition, having drone prototyping and image recognition for effective identification and monitoring of forest fires.
 
 ### IR Prototipe
-*Enruteo de IR*
+![IR](gif_model.gif)
 
 An image recognition algorithm that processes user captures through the mobile app, then extracts features and classifies the images as "Fire" or "No fire."
 If a fire is detected, an alert is issued for response action
