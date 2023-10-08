@@ -4,7 +4,7 @@
 [**Link**](https://www.spaceappschallenge.org/2023/challenges/managing-fire-increasing-community-based-fire-management-opportunities/) 
 
 # Project Proposal: FireWatch Community
-![Team](Team.lpeg) 
+![Team](Team.jpeg) 
 **[Presentation](https://www.canva.com/design/DAFwsi_vuP8/rzOza61muPKYi0ioSyUqtw/edit?utm_content=DAFwsi_vuP8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
 ## Our Work
 ### App Prototipe
